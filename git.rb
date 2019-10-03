@@ -1,2 +1,5 @@
 print "Coding is fun!!!!!!"
 print "I'm hungry and I don't want to go to math."
+print "Oh right, I have froot loops. but i want more. i'm running out."
+print "my overall diet consists of 40% froot loops."
+print "I'm going to die of froot loop overdose"
